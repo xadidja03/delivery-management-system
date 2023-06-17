@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 5989
+    username: khadica@div.edu.az
+    password: oeceufzfbceasepu
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true

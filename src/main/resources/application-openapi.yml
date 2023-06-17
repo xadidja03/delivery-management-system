@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Delivery Management System
+    author : Khadija Madnaeva
+    version: 1.0.0

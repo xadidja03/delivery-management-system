@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Delivery
+  profiles:
+    include:
+      - db
+      - openapi
+      - email
+#      - security
+server:
+  port: 5989
+
+
